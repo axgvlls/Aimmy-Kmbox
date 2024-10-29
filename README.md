@@ -1,4 +1,6 @@
-This build of Aimmy supports the KMBox b+ and Arduinos using Neoware firmware. If you have paid for this software you have been scammed.
+This build of Aimmy supports the KMBox b+ and Arduinos using Neoware firmware.
+
+If you have paid for this software you have been scammed.
 
 > [!NOTE]
 > If you enjoy Aimmy, please consider giving us a star ⭐! We appreciate it! :)
